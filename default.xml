@@ -49,6 +49,9 @@
   <!-- required for opengl changes & rotation -->
   <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="aic_vm" revision="aic-lollipop" />
 
+  <!-- Disable welcome screen -->
+  <project path="packages_apps_launcher3" name="platform/packages/apps/Launcher3" remote="aic_vm" revision="aic-lollipop" />
+
   <!-- wpa_supplicant fork for fake wired wireless connection -->
   <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" groups="pdk" remote="aic_vm" revision="aic-lollipop" />
 
@@ -435,7 +438,6 @@
   <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" />
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
