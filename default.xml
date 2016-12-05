@@ -50,7 +50,7 @@
   <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="aic_vm" revision="aic-lollipop" />
 
   <!-- Disable welcome screen -->
-  <project path="packages_apps_launcher3" name="platform/packages/apps/Launcher3" remote="aic_vm" revision="aic-lollipop" />
+  <project path="packages/apps/Launcher3" name="platform_packages_apps_launcher3" remote="aic_vm" revision="aic-lollipop" />
 
   <!-- wpa_supplicant fork for fake wired wireless connection -->
   <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" groups="pdk" remote="aic_vm" revision="aic-lollipop" />
