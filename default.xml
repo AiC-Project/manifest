@@ -70,7 +70,6 @@
   <project path="external/aic/prop" remote="aic_vm" name="aic_prop" revision="aic-lollipop" />
   <project path="external/aic/setprop" remote="aic_vm" name="aic_setprop" revision="aic-lollipop" />
   <project path="external/aic/vinput" remote="aic_vm" name="aic_vinput" revision="aic-lollipop" />
-  <project path="external/aic/vmconfig" remote="aic_vm" name="aic_vmconfig" revision="aic-lollipop" />
 
   <project path="external/grub" name="platform/external/grub" groups="pdk" revision="master" />
 
