@@ -471,7 +471,7 @@
   <project path="external/aic/audio_alsa" remote="aic_vm" name="aic_audio_alsa" revision="aic-kitkat" />
   <project path="external/aic/gps" remote="aic_vm" name="aic_gps" revision="aic-kitkat" />
   <project path="external/aic/gsmd" remote="aic_vm" name="platform_external_aic_gsmd" revision="aic-kitkat" />
-  <project path="external/aic/btd" remote="aic_vm" name="platform_external_aic_btd" revision="aic-kitkat" /
+  <project path="external/aic/btd" remote="aic_vm" name="platform_external_aic_btd" revision="aic-kitkat" />
   <project path="external/aic/nfcd" remote="aic_vm" name="platform_external_aic_nfcd" revision="aic-kitkat" />
   <project path="external/aic/libsensor" remote="aic_vm" name="aic_libsensor" revision="aic-kitkat" />
   <project path="external/aic/libaicd" remote="aic_vm" name="libaicd" revision="aic-kitkat" />
